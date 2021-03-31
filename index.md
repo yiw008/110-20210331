@@ -5,9 +5,6 @@
 ## Some Other Contents
 ### Styling text
 **STUDENT**
-### Quoting text
-> START EARLY START OFTEN
-
 ### Quoting code
 ```
 System.out.println("Hello, World!");
@@ -23,3 +20,5 @@ System.out.println("Hello, World!");
 - [x] Sophomore
 - [ ] Junior
 - [ ] Senior
+### Quoting text
+> START EARLY START OFTEN
