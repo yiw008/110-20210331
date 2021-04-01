@@ -15,10 +15,15 @@ System.out.println("Hello, World!");
 - Math-CS
 - Muir College
 - UCSD Class of 2023
+<a/>
+
 ### Task Lists
 - [x] Freshman
 - [x] Sophomore
 - [ ] Junior
 - [ ] Senior
+<a/>
+
 ### Quoting text
 > START EARLY START OFTEN
+<a/>
